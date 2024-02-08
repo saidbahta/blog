@@ -2,3 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 **.ai
+_posts/.obsidian
+_posts/.trash
+.jekyll-cache
+.gitattributes
